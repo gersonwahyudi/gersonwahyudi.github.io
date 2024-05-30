@@ -1,10 +1,23 @@
-body{font-family:Open Sans,Arial;
-color:#e5e5e5;
-font-size:18px;
-margin:2em auto;
-max-width:800px;
-padding:1em;
-line-height:1.2;
-background-color:#050505}
+body{
+	font-family:Open Sans,Arial;
+	color:#e5e5e5;
+	font-size:18px;
+	margin:2em auto;
+	max-width:800px;
+	padding:1em;
+	line-height:1.2;
+	background-color:#050505
+}
 
-a:link, a:visited {color:#e5e5e5;}
+a:link, a:visited {
+	color:#458588;
+}
+
+div{
+	margin-bottom:5px
+}
+
+footer{
+	color:928374;
+	font-size:15px;
+}
