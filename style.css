@@ -6,7 +6,7 @@ body{
 	max-width:800px;
 	padding:1em;
 	line-height:1.2;
-	background-color:#050505
+	background-color:#050505;
 }
 
 a:link, a:visited {
@@ -14,10 +14,11 @@ a:link, a:visited {
 }
 
 div{
-	margin-bottom:5px;
+	margin-bottom:1em;
 }
 
 footer{
-	color:928374;
+	margin-top:1em;
+	color:#gray;
 	font-size:15px;
 }
